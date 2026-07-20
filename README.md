@@ -22,6 +22,3 @@ This project demonstrates LED blinking using Timer0 in Mode 0 (13-bit timer) on 
 - 13-bit timer.uvproj – Keil project file
 - STARTUP.A51 – Startup file
 - Circuit.png – Proteus circuit diagram
-
-## Author
-Thulasi Sankar
